@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/Alumnos.loader.js";
+    var loaderUrl = buildUrl + "/FirstLog.loader.js";
     var config = {
-        dataUrl: buildUrl + "/Alumnos.data",
-        frameworkUrl: buildUrl + "/Alumnos.framework.js",
-        codeUrl: buildUrl + "/Alumnos.wasm",
+        dataUrl: buildUrl + "/FirstLog.data",
+        frameworkUrl: buildUrl + "/FirstLog.framework.js",
+        codeUrl: buildUrl + "/FirstLog.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Cursos",
